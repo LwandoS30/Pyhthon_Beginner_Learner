@@ -1,4 +1,4 @@
-""""The syst em will calculate the total price for the customer
+""""The system will calculate the total price for the customer
   the change and vat """
 
 #Variable declaration for calculations
